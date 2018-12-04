@@ -13,7 +13,7 @@ Seussical Jr. (Cat In The Hat). I have attended several high school productions 
 That being said I have attended Thescon two years in a row, Thescon is a place where thespians In high school can attend and 
 we participate in a variety of workshops to help improve theatrical performance skills. 
 
-If you would like to checkout workshops they offer every year, check this[out](https://cothespians.com).
+If you would like to checkout workshops they offer every year, check this [out](https://cothespians.com).
 
 
 ## Improved performance 
